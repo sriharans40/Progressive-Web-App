@@ -1,6 +1,6 @@
 {
-  "name": "Weather",
-  "short_name": "Weather",
+  "name": "Sriharan Weather App",
+  "short_name": "Sriharan Weather App",
   "icons": [{
     "src": "images/icons/icon-128x128.png",
       "sizes": "128x128",
